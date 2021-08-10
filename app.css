@@ -1,0 +1,27 @@
+.page-container {
+    position: relative;
+}
+.main_box {
+    display:flex;
+    position:absolute;
+    width: 60%;
+    top: 50%;
+    left:20%;
+}
+
+@media screen and (max-width: 700px) {
+    .main_box {
+        flex-direction: column;
+    }
+}
+
+#sedan {
+
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+    }
