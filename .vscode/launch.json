@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/mnt/HDfiles/documents/webdev/frontendmentor/3-column-preview-card-component-main/MY_SOlN/index.html"
+            "file": "/mnt/HDfiles/documents/webdev/frontendmentor/3-column-preview-card-component-main/MY_SOLN/index.html"
         }
     ]
 }
